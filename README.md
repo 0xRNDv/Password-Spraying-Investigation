@@ -1,12 +1,8 @@
-MITRE ATT&CK: T1110.003
-
-Splunk
-
-Windows Event Logs
-
-SOC Investigation
-
 # Password Spraying Investigation
+
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE-T1110.003-red)
+![Splunk](https://img.shields.io/badge/SIEM-Splunk-000000?logo=splunk)
+![Blue Team](https://img.shields.io/badge/Blue-Team-blue)
 
 ## Overview
 
