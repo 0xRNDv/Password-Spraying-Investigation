@@ -1,3 +1,11 @@
+MITRE ATT&CK: T1110.003
+
+Splunk
+
+Windows Event Logs
+
+SOC Investigation
+
 # Password Spraying Investigation
 
 ## Overview
